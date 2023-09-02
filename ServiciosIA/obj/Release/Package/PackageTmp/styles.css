@@ -1,0 +1,33 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  
+    height: 100vh;
+    background-color: #f5f5f5;
+}
+
+.container {
+    padding-top: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    width: 60%;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
+    margin:0px auto;
+    margin-top:25px;
+}
+
+
+.header {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#lblMensaje {
+   
+    font-size: 16px;
+    text-align: initial;
+    }
